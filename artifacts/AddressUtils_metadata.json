@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"address-utils.sol": "AddressUtils"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"address-utils.sol": {
+			"keccak256": "0x15152f522c378e67997d4592c7c50cc46ea5b378606d05de0f1a30abde125043",
+			"urls": [
+				"bzz-raw://8040c425b9e62c557c916589a742d1e8b81ea002a3aef5d6e71d3922b3132860",
+				"dweb:/ipfs/QmVuruNqBbfbofiryUbVDshgmzEJpoHztoGXVnBZWB6b8U"
+			]
+		}
+	},
+	"version": 1
+}
